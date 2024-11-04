@@ -121,7 +121,7 @@ AtliQ Hardware operates across several platforms and business channels, includin
 <br>
 
 9. **Request**: Which channel helped to bring more gross sales in the fiscal year 2021, and what was the percentage contribution? The final output contains these fields: `channel`, `gross_sales_mln`, and `percentage`.
-- **Insight**: In FY 2021, the Retailer channel led with $1924.17 million in gross sales, accounting for 73.22% of total sales, followed by Direct and Distributor channels with 15.48% and 11.31%, respectively.
+- **Insight**: In FY 2021, the Retailer channel led with $1219.08 million in gross sales, accounting for 73.23% of total sales, followed by Direct and Distributor channels with 15.47% and 11.30%, respectively.
      
      ![Output](https://raw.githubusercontent.com/SudipRuidas/Consumer_Goods_Ad_Hoc_Insights/refs/heads/master/Images/Outputs/q9.PNG)
 
